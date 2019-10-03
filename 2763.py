@@ -1,0 +1,6 @@
+x, y, z = input().split('.')
+z, d = str(z).split('-')
+print(x)
+print(y)
+print(z)
+print(d)
